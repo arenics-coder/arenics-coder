@@ -1,13 +1,16 @@
+~~~Sobre mim:
+Entusiasta em computação: um eremita desbravando este infindável unviverso de tecnologias.
+Músico: tocador de violão meia-boca.
+Filósofo: pensador moderno subordinário.
+~~~
 
-**arenics-coder/arenics-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~~Interesses:
+Desenvolvimento Web: Vanila JS, HTML5, CSS3
+Arquitetura de Computadores
+Engenharia Reversa de Software
+Linux
+~~~
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+~~~Contatos:
+@Arenics1
+~~~
