@@ -7,5 +7,6 @@
 * Linux...
 <br/>
 
+![](https://komarev.com/ghpvc/?username=arenics-coder&label=Visualizações&style=plastic&color=blue)
 
-I use <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="Arch Linux"  align="middle"> btw.
+I use <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="Arch Linux"  align="middle" width="50"> btw.
